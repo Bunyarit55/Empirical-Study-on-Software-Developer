@@ -17,6 +17,24 @@ Using proposed metrics—including active contributors, developer experience, te
 The following tables represent the updated dataset for the thesis version.
 
 Table 1 — Repository Dataset Overview
+<table>
+  <tr>
+    <th>Developer Group</th>
+    <th>Count</th>
+    <th>Experience Range</th>
+  </tr>
+  <tr>
+    <td>Low-experience</td>
+    <td><b>41</b></td>
+    <td>≤ 5 years</td>
+  </tr>
+  <tr>
+    <td>High-experience</td>
+    <td><b>50</b></td>
+    <td>> 5 years</td>
+  </tr>
+</table>
+
 
 Table 2 — Developer Dataset Overview
 
