@@ -14,8 +14,6 @@ Using proposed metrics—including active contributors, developer experience, te
 
 Data Summary Tables
 
-The following tables represent the updated dataset for the thesis version.
-
 Table 1 — Repository Dataset Overview
 
 
