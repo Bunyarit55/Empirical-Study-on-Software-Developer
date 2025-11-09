@@ -16,23 +16,8 @@ Using proposed metrics—including active contributors, developer experience, te
 
 The following tables represent the updated dataset for the thesis version.
 
-Table 4.2 — Repository Dataset Overview
-Metric	Value
-Total repositories analyzed	116
-Programming language	Python
-Minimum active development period	2 years
-Technical debt extracted using	SonarQube
-Metrics computed	TD Density, Active Contributor Percent
-Time window	Latest stable release
-Table 4.3 — Developer Dataset Overview
-Metric	Value
-Total developers analyzed	91
-Developer selection method	Purposive sampling from repositories
-Commits analyzed per developer	40 sampled commits
-Data extracted	Commit history, previous commit, TD metrics
-Experience calculation	Years of contribution (start year → latest year)
-Table 4.4 — Developer Experience Grouping
-Developer Group	Count	Experience Range
-Low-experience developers	41	≤ 5 years
-High-experience developers	50	> 5 years
-Total	91	—
+Table 1 — Repository Dataset Overview
+
+Table 2 — Developer Dataset Overview
+
+Table 3 — Developer Experience Grouping
