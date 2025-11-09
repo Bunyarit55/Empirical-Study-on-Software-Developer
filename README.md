@@ -12,7 +12,7 @@ Technical debt reflects hidden issues in software that arise from software devel
 
 Using proposed metrics—including active contributors, developer experience, technical debt density, and technical debt management performance—we conducted a statistical analysis across 116 Python open-source repositories. The results reveal no evidence that the proportion of active contributors influences technical debt density. However, levels of developer experience are associated with the improvement of technical debt management performance. Specifically, highly experienced developers show less improvement compared to those with lower experience levels. Additional influences such as project status, developers’ perception of technical debt, and project practices may also contribute to the presence of technical debt in project code.
 
-✅ Data Summary Tables
+Data Summary Tables
 
 The following tables represent the updated dataset for the thesis version.
 
